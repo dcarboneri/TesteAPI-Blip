@@ -1,0 +1,6 @@
+@TesteAPI_HostAddress = http://localhost:5053
+
+GET {{TesteAPI_HostAddress}}
+Accept: application/json
+
+###
